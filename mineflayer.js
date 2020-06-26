@@ -1,7 +1,7 @@
 (function(ext) {
 	var mineflayer = require("mineflayer");
 	var botSpawned = false;
-	
+	alert("t");
     // Cleanup function when the extension is unloaded
     ext._shutdown = function() {};
 	
